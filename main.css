@@ -1,0 +1,311 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+}
+.v35_3 {
+  width: 390px;
+  height: 844px;
+  background: rgba(255,255,255,0.9200000166893005);
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v39_54 {
+  width: 390px;
+  height: 669px;
+  background: url("../images/v39_54.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  overflow: hidden;
+}
+.v35_34 {
+  width: 173px;
+  height: 148px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 323px;
+  left: 13px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  overflow: hidden;
+}
+.v35_39 {
+  width: 92px;
+  height: 96px;
+  background: url("../images/v35_39.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 370px;
+  left: 93px;
+  overflow: hidden;
+}
+.v35_35 {
+  width: 173px;
+  height: 148px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 323px;
+  left: 204px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  overflow: hidden;
+}
+.v35_36 {
+  width: 173px;
+  height: 148px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 497px;
+  left: 13px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  overflow: hidden;
+}
+.v38_42 {
+  width: 109px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 513px;
+  left: 30px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v35_37 {
+  width: 173px;
+  height: 148px;
+  background: rgba(255,255,255,1);
+  opacity: 1;
+  position: absolute;
+  top: 497px;
+  left: 204px;
+  border-top-left-radius: 18px;
+  border-top-right-radius: 18px;
+  border-bottom-left-radius: 18px;
+  border-bottom-right-radius: 18px;
+  overflow: hidden;
+}
+.v38_41 {
+  width: 109px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 513px;
+  left: 227px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v35_38 {
+  width: 89px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 339px;
+  left: 30px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v35_40 {
+  width: 109px;
+  color: rgba(0,0,0,1);
+  position: absolute;
+  top: 339px;
+  left: 227px;
+  font-family: Ubuntu;
+  font-weight: Bold;
+  font-size: 20px;
+  opacity: 1;
+  text-align: left;
+}
+.v26_12 {
+  width: 90px;
+  height: 90px;
+  background: url("../images/v26_12.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 376px;
+  left: 281px;
+  overflow: hidden;
+}
+.v25_10 {
+  width: 92px;
+  height: 91px;
+  background: url("../images/v25_10.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 546px;
+  left: 281px;
+  overflow: hidden;
+}
+.v38_43 {
+  width: 140px;
+  height: 113px;
+  background: url("../images/v38_43.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 540px;
+  left: 56px;
+  overflow: hidden;
+}
+.v38_44 {
+  width: 336px;
+  height: 76px;
+  background: rgba(255,255,255,0.8799999952316284);
+  opacity: 1;
+  position: absolute;
+  top: 732px;
+  left: 27px;
+  border-top-left-radius: 67px;
+  border-top-right-radius: 67px;
+  border-bottom-left-radius: 67px;
+  border-bottom-right-radius: 67px;
+  overflow: hidden;
+}
+.v38_45 {
+  width: 44px;
+  height: 44px;
+  background: url("../images/v38_45.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  left: 50px;
+  overflow: hidden;
+}
+.v39_46 {
+  width: 40px;
+  height: 40px;
+  background: url("../images/v39_46.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 749px;
+  left: 219px;
+  overflow: hidden;
+}
+.v39_48 {
+  width: 45px;
+  height: 45px;
+  background: url("../images/v39_48.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 747px;
+  left: 134px;
+  overflow: hidden;
+}
+.v39_49 {
+  width: 302px;
+  color: rgba(0,0,0,0.7200000286102295);
+  position: absolute;
+  top: 262px;
+  left: 19px;
+  font-family: Ubuntu;
+  font-weight: Medium;
+  font-size: 28px;
+  opacity: 1;
+  text-align: left;
+}
+.v39_51 {
+  width: 59px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 114px;
+  left: 300px;
+  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  opacity: 1;
+  text-align: center;
+}
+.v41_5 {
+  width: 60px;
+  height: 61px;
+  background: url("../images/v41_5.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 53px;
+  left: 299px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.v39_47 {
+  width: 38px;
+  height: 39px;
+  background: url("../images/v39_47.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  opacity: 1;
+  position: absolute;
+  top: 750px;
+  left: 299px;
+  overflow: hidden;
+}
+.v43_6 {
+  width: 127px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 104px;
+  left: 13px;
+  font-family: Ubuntu;
+  font-weight: Regular;
+  font-size: 20px;
+  opacity: 1;
+  text-align: center;
+}
+.v43_7 {
+  width: 178px;
+  color: rgba(255,255,255,1);
+  position: absolute;
+  top: 134px;
+  left: 13px;
+  font-family: Ubuntu;
+  font-weight: Medium Italic;
+  font-size: 24px;
+  opacity: 1;
+  text-align: center;
+}
